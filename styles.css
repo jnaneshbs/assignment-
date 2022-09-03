@@ -1,0 +1,215 @@
+ * {
+     font-size: 100%;
+     font-family: "sam-serif";
+     font-weight: bold;
+ }
+ 
+ h1 {
+     text-align: center;
+     font-size: 45px;
+ }
+ 
+ .navbar-nav.navbar-nav li a {
+     color: rgb(3, 3, 3);
+     margin-bottom: 0px;
+     font-size: 20px;
+     padding-left: 35px;
+     padding-right: 35px;
+ }
+ 
+ #logo :hover {
+     background-color: rgb(236, 8, 8);
+ }
+ 
+ #about :hover {
+     background-color: rgb(236, 8, 8);
+ }
+ 
+ #product :hover {
+     background-color: rgb(236, 8, 8);
+ }
+ 
+ #service :hover {
+     background-color: rgb(236, 8, 8);
+ }
+ 
+ #contact :hover {
+     background-color: rgb(236, 8, 8);
+ }
+ 
+ img {
+     height: 45px;
+     padding: 4px 15px 4px 15px;
+ }
+ 
+ .About {
+     padding: 30px 10px;
+     scroll-padding-block: 4px;
+     background-color: #DCF7FF;
+     font-size: 20px;
+     text-align: justify;
+ }
+ 
+ h3 {
+     font-size: 30px;
+     text-align: center;
+     font-family: sam-serif;
+     font-weight: bold;
+     margin-top: 0px;
+ }
+ 
+ .Products {
+     background-color: rgb(112, 196, 141);
+     height: 700px;
+     width: 100%;
+     justify-content: center;
+     margin-top: 0px;
+ }
+ 
+ .Prodimg {
+     display: flex;
+ }
+ 
+ .container {
+     float: left;
+     padding-left: 5%;
+     padding-right: 5%;
+     padding-top: 50px;
+     height: 30%;
+ }
+ 
+ .image {
+     height: 190px;
+     max-width: 100%;
+     display: inline;
+     box-shadow: none;
+ }
+ 
+ #con1 p {
+     padding-left: 20px;
+ }
+ 
+ #con2 p {
+     padding-left: 50px;
+ }
+ 
+ #con3 p {
+     padding-left: 50px;
+ }
+ 
+ #con1 :hover {
+     transform: scale(1.2);
+     box-shadow: rgb(3, 3, 3);
+ }
+ 
+ #con2 :hover {
+     transform: scale(1.2);
+     box-shadow: rgb(3, 3, 3);
+ }
+ 
+ #con3 :hover {
+     transform: scale(1.2);
+     box-shadow: rgb(3, 3, 3);
+ }
+ 
+ .Prodved {
+     display: flex;
+ }
+ 
+ .box {
+     float: left;
+     padding-left: 4%;
+     padding-right: 5%;
+     padding-top: 50px;
+     height: 30%;
+ }
+ 
+ .vedio {
+     height: 190px;
+     max-width: 100%;
+     display: inline;
+     box-shadow: none;
+ }
+ 
+ .Services {
+     background-color: rgba(37, 36, 36, 0.208);
+ }
+ 
+ .parent {
+     display: flex;
+ }
+ 
+ .tmain {
+     padding-top: 30px;
+     padding-bottom: 30px;
+     padding-left: 10px;
+     padding-right: 10px;
+ }
+ 
+ #em {
+     padding-left: 250px;
+     padding-top: 30px;
+     padding-bottom: 30px;
+     padding-right: 180px;
+     font-family: "sam-serif";
+     font-size: 16px;
+     display: inline;
+ }
+ 
+ #ind {
+     text-align: center;
+     padding-left: 230px;
+     padding-top: 30px;
+     padding-bottom: 30px;
+     padding-right: 180px;
+     font-family: "sam-serif";
+     font-size: 16px;
+     display: inline;
+ }
+ 
+ .em {
+     display: table-column;
+     padding: 20px 10px 20px 10px;
+     overflow-wrap: break-word;
+     text-align: justify;
+     color: white;
+     background-color: rgb(72, 69, 69);
+     font-size: 12px;
+ }
+ 
+ .ind {
+     display: table-column;
+     padding: 20px 10px 40px 10px;
+     text-align: justify;
+     color: white;
+     background-color: rgb(72, 69, 69);
+     font-size: 12px;
+ }
+ 
+ #ind1 {
+     padding-left: 40px;
+ }
+ 
+ #ind2 {
+     padding-right: 20px;
+ }
+ 
+ .Contanct {
+     padding: 20px 20px;
+ }
+ 
+ #phone {
+     padding: 10px 20px;
+     padding-bottom: 10px;
+     padding-left: 20px;
+     display: inline-table;
+     font-size: 15px;
+ }
+ 
+ #loc {
+     padding: 10px 20px;
+     padding-bottom: 10px;
+     padding-left: 20%;
+     display: inline-table;
+     font-size: 15px;
+ }
